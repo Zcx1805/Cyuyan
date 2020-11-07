@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/10/14 15:00:22。
+     1>项目“F:\visual stdio code\2000-10-14\2000-10-14\2000-10-14.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt sanbeishu.c
+         sanbeishu.c
+     1>f:\visual stdio code\2000-10-14\2000-10-14\sanbeishu.c(12): warning C4013: “system”未定义；假设外部返回 int
+       Link:
+         F:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\visual stdio code\2000-10-14\Debug\2000-10-14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\visual stdio code\2000-10-14\Debug\2000-10-14.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\visual stdio code\2000-10-14\Debug\2000-10-14.lib" /MACHINE:X86 Debug\bidaxiao.obj
+         Debug\sanbeishu.obj
+     1>sanbeishu.obj : error LNK2005: _main 已经在 bidaxiao.obj 中定义
+     1>F:\visual stdio code\2000-10-14\Debug\2000-10-14.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“F:\visual stdio code\2000-10-14\2000-10-14\2000-10-14.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.36
