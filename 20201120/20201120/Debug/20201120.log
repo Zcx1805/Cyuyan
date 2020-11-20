@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/11/20 10:17:42。
+     1>项目“F:\visual stdio code\20201120\20201120\20201120.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt 20201120.c
+         20201120.c
+       Link:
+         F:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\visual stdio code\20201120\Debug\20201120.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\visual stdio code\20201120\Debug\20201120.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\visual stdio code\20201120\Debug\20201120.lib" /MACHINE:X86 Debug\20201120.obj
+         20201120.vcxproj -> F:\visual stdio code\20201120\Debug\20201120.exe
+     1>已完成生成项目“F:\visual stdio code\20201120\20201120\20201120.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41
