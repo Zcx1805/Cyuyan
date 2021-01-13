@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/1/12 14:45:14。
+     1>项目“F:\visual stdio code\20210112\20210112\20210112.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt btree.c
+         btree.c
+     1>f:\visual stdio code\20210112\20210112\btree.c(43): warning C4047: “函数”:“int”与“int *”的间接级别不同
+     1>f:\visual stdio code\20210112\20210112\btree.c(43): warning C4024: “createbtree1”: 形参和实参 2 的类型不同
+     1>f:\visual stdio code\20210112\20210112\btree.c(44): warning C4047: “函数”:“int”与“int *”的间接级别不同
+     1>f:\visual stdio code\20210112\20210112\btree.c(44): warning C4024: “createbtree1”: 形参和实参 2 的类型不同
+       Link:
+         F:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\visual stdio code\20210112\Debug\20210112.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\visual stdio code\20210112\Debug\20210112.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\visual stdio code\20210112\Debug\20210112.lib" /MACHINE:X86 Debug\btree.obj
+     1>LINK : fatal error LNK1561: 必须定义入口点
+     1>已完成生成项目“F:\visual stdio code\20210112\20210112\20210112.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.84
